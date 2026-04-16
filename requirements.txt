@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+qdrant-client
+langchain-qdrant
+langchain-huggingface
+langchain-text-splitters
+python-multipart
+sentence-transformers
